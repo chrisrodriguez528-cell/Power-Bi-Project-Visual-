@@ -1,4 +1,4 @@
 # Power-Bi-Project-Visual-
---- Utilized data from particiants answring questions such as salary, profession in Data, industry, Sex, Location etc. ---
+--- Utilized data from particiants answering questions related to Salary, Profession in Data, Industry, Sex, Location, Difficulty breaking into Data, Satisfaction with work/life balance etc. ---
 --- Transformed and cleaned data using Power Query in Power BI ---
---- Constructed and Organized data into a visual Dashbaord breaking down the most important information --- 
+--- Constructed and Organized data into a Visual Dashbaord breaking down the most important information --- 
