@@ -3,7 +3,7 @@
 Tools Used:
 - Excel
 - Power BI
-- POwer Query
+- Power Query
 
 Objective of Project
 - Utilized data from particiants answering questions related to Salary, Profession in Data, Industry, Sex, Location, Difficulty breaking into Data, Satisfaction with work/life balance etc.
