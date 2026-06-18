@@ -1,4 +1,4 @@
-# Power BI Project Visual (May. 2026)
+# Data Professionals Survey Analysis (May. 2026)
 
 :pencil2: **Tools Used:**
 - Excel
