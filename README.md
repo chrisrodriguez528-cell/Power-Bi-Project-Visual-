@@ -11,5 +11,4 @@
 - Constructed and organized data into an Interactive Visual Dashbaord breaking down the most important information
 
 :camera: **Preview:**
-<img width="1633" height="858" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/24b1495e-9b18-43c8-a721-ae6b7488b153" />
-
+<img width="1484" height="841" alt="screenshot" src="https://github.com/user-attachments/assets/89247cb2-c22f-4fc6-97ee-bffee806ba4e" />
